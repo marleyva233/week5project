@@ -32,3 +32,15 @@ img{
 
 /*[3]FOOTER*/
 
+/*[4]PORTOFOLIO */
+.body{
+	background-color: #98D3A5;
+}
+.btns button{
+	border-color: #98D3A5;
+	background-color: #98D3A5;
+}
+/*[5]BLOG*/
+.body-blue{
+	background-color:#A6D2DB; 
+}
