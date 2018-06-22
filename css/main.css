@@ -1,0 +1,34 @@
+/*
+[0]GENERAL
+[1]NAVIGATION
+[2]CAROUSEL
+[3]FOOTER
+*/
+
+/*[0]GENERAL*/
+h1{
+	font-size: 38px;
+}
+.btn-success{
+	background-color: #AED7B7;
+}
+.btn-info{
+	background-color: #A6D2DB;
+}
+
+/*[1]NAVIGATION*/
+.nav-container{
+	background-color: #A6D2DB;
+}
+
+/*[2]CAROUSEL*/
+#carouselExampleSlidesOnly{
+	height: 300px;
+	background-color: #A6D2DB;
+}
+img{
+	max-width: 250px;
+}
+
+/*[3]FOOTER*/
+
