@@ -3,11 +3,27 @@
 [1]NAVIGATION
 [2]CAROUSEL
 [3]FOOTER
+[4]PORTOFOLIO
+[5]BLOG
+[6]CONTACT
+[7]MEDIA QUERIES
 */
 
 /*[0]GENERAL*/
+body{
+	font-size: 14px;
+	font-family: 'Poppins', sans-serif;
+}
 h1{
+	font-weight: bold;
+	font-family: 'Paytone One', sans-serif;
 	font-size: 38px;
+}
+h3{
+	font-family: 'Paytone One', sans-serif;
+}
+a{
+	font-size: 16px;
 }
 .btn-success{
 	background-color: #AED7B7;
@@ -49,3 +65,9 @@ img{
 .body-pink{
 	background-color: #DEB5C5;
 }
+/*[7]MEDIA QUERIES*/
+@media only screen and (max-width: 580px){
+	/*.owls1{*/
+		display: block;
+		width: 100%;
+	}
